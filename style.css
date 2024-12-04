@@ -1,0 +1,21 @@
+.topLink{
+    color:#eaecef;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: auto;
+    font-size: 15px;
+    margin-right:17px;
+    margin-top:1px;
+}
+.news-box{
+    background-color:#181a20; 
+    position:absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+    top:200px;
+    right:78px;
+    width:450px;
+    border-radius:10px;
+    padding-left: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
